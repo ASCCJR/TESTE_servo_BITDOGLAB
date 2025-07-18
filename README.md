@@ -7,7 +7,7 @@
 
 Este repositório demonstra uma técnica para controlar um servo motor padrão (ex: SG90) utilizando uma porta I2C de uma placa Raspberry Pi Pico (neste caso, a BitDogLab).
 
-A solução não utiliza o protocolo I2C para comunicação. Em vez disso, o projeto **reconfigura um dos pinos de dados da porta I2C (SDA ou SCL) para atuar como uma saída PWM nativa do Pico**, gerando o sinal de controle que o servo motor entende. O código é autocontido em um único arquivo `main.c` para simplicidade.
+A solução não utiliza o protocolo I2C para comunicação. Em vez disso, o projeto **reconfigura um dos pinos de dados da porta I2C (SDA ou SCL) para atuar como uma saída PWM nativa do Pico**, gerando o sinal de controle que o servo motor entende. O código foi resumido em um único arquivo `main.c` 
 
 ## ✨ Funcionalidades
 
