@@ -2,8 +2,10 @@
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue.svg)
 ![Plataforma](https://img.shields.io/badge/Plataforma-Raspberry%20Pi%20Pico-purple.svg)
+![Plataforma](https://img.shields.io/badge/Plataforma-BitDogLab-purple.svg)
 ![Técnica](https://img.shields.io/badge/Técnica-PWM-yellow.svg)
 ![Atuador](https://img.shields.io/badge/Atuador-Servo%20Motor-orange.svg)
+
 
 Este repositório demonstra uma técnica para controlar um servo motor padrão (ex: SG90) utilizando uma porta I2C de uma placa Raspberry Pi Pico (neste caso, a BitDogLab).
 
